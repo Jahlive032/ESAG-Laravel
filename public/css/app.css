@@ -1,0 +1,94 @@
+/* .formu{
+    width: 20%;
+    height: 10px;
+} */
+
+
+.container{
+    height: 180px;
+    
+}
+
+nav{
+    display: flex;
+    
+}
+
+nav img{
+    width: 200px;
+    
+}
+
+.content{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: #4472c4;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.content h1{
+    margin-left: 200px;
+    font-size: 4rem;
+    color: white;
+    font-family: 'algerian', sans-serif;
+}
+
+.info{
+    background-color: #4472c4;
+    width: 13.5%;
+    height: 74vh;
+    border: 1px solid black;
+}
+
+.info p{
+   
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+.info p a{
+    border: 1px solid black;
+    background-color: #bf9000;
+    padding: 5px;
+    
+}
+
+.contain{
+    display: flex;
+}
+
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title h1{
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+.multiplication-table {
+    position: relative;
+    max-width: 60%;
+    margin-left: 16%;
+    
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style: none;
+    /* padding: 0; */
+}
+
+li {
+    margin-left: 40%;
+    font-size: 22px;
+}
